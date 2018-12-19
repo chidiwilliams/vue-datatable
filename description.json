@@ -1,0 +1,23 @@
+{
+    "first_name": "Daniel",
+    "last_name": "Okey-Okoro",
+    "middle_name": "Chukwunonoso",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "email_address": "danielokeyokoro@gmail.com",
+    "skype_id": "daniel.okey.okoro",
+    "frameworks": [
+        "Angular",
+        "Flask"
+    ],
+    "other_languages": [
+        "Python"
+    ],
+    "hobbies" : [
+        "making it through the criterion collection",
+        "discovering new music",
+        "codewars",
+        "losing at chess",
+        "hackernews"
+    ]
+}
