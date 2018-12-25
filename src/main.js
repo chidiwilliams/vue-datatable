@@ -1,3 +1,5 @@
+// Merry Christmas bro!
+// (😲 No semicolons, eh, bad boy?)
 import Vue from 'vue'
 import App from './App.vue'
 
